@@ -36,12 +36,12 @@ a) onPause() or onStop().
 2.3: 
 
 Question 1:
-a)
+a) new Intent(String action).
 
 Question 2: 
-a)
+a) All of the above.
 
 Question 3:
-a)
+a) Intent takePicture = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
 
 
