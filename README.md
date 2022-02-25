@@ -44,8 +44,4 @@ a)
 Question 3:
 a)
 
-Question 4: 
-a)
 
-Question 5:
-a)
